@@ -1,0 +1,19 @@
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editors
+.idea/
+.vscode/
+*.swp
+
+# Local development
+.venv/
+node_modules/
+*.log
+
+# Temporary and archive files
+*.tmp
+*.zip
+

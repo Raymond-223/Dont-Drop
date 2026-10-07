@@ -1,0 +1,8 @@
+# Keep generated Unity build files from dominating GitHub language statistics.
+game/Build/** linguist-generated=true
+
+# Treat compiled and document assets as binary files.
+*.data binary
+*.wasm binary
+*.pdf binary
+
