@@ -1,8 +1,42 @@
 # Don't Drop — Unity WebGL
 
-《Don't Drop》是一款轻松有趣的本地多人派对对战游戏。玩家在悬浮平台上移动、跳跃和攻击，利用随机掉落的道具把对手击落；每位玩家初始拥有 3 条生命，最后存活的玩家获胜。
+<p align="center">
+  <img src="assets/images/logo.png" alt="Don't Drop logo" width="180">
+</p>
 
-本仓库包含项目展示页、Unity WebGL 可玩构建、游戏截图和策划展示文档。
+## About / 游戏介绍
+
+### English
+
+**Don't Drop!** is a casual multiplayer party fighting game built for fast-paced local battles. Players fight on floating platforms, using movement, double jumps and attacks to knock their opponents off the stage. Each player starts with three lives, and the last player standing wins the match.
+
+The controls are easy to learn, while speed boosts, shields, swords and other items bring unpredictability to every round. With short matches, lively combat and plenty of opportunities for dramatic comebacks, *Don't Drop!* is designed to be a fun, lighthearted game for friends playing together in the same room.
+
+This repository contains the project landing page, a playable Unity WebGL build, gameplay screenshots and the game pitch document.
+
+### 中文
+
+**《Don't Drop》**是一款轻松有趣的本地多人派对对战游戏，强调快节奏的同屏竞技与娱乐体验。玩家将在悬浮平台上移动、二段跳和攻击，设法将对手击落平台。每位玩家初始拥有三条生命，最后存活的玩家即可赢得对局。
+
+游戏操作直观、上手门槛低，同时加入了加速、护盾、剑等随机道具，让每一轮战斗都充满变化与逆转。凭借紧凑的对局节奏和富有互动性的战斗设计，《Don't Drop》尤其适合朋友聚会时一起游玩。
+
+本仓库包含项目展示页、可直接游玩的 Unity WebGL 构建、游戏截图以及策划展示文档。
+
+## Screenshots / 游戏截图
+
+<table>
+  <tr>
+    <td><img src="assets/images/screenshots/1.png" alt="Don't Drop gameplay screenshot 1"></td>
+    <td><img src="assets/images/screenshots/2.png" alt="Don't Drop gameplay screenshot 2"></td>
+    <td><img src="assets/images/screenshots/3.png" alt="Don't Drop gameplay screenshot 3"></td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center">
+      <img src="assets/images/screenshots/4.png" alt="Don't Drop gameplay screenshot 4" width="45%">
+      <img src="assets/images/screenshots/5.png" alt="Don't Drop gameplay screenshot 5" width="45%">
+    </td>
+  </tr>
+</table>
 
 ## 在线内容
 
